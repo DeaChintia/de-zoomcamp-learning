@@ -1,2 +1,7 @@
-week1/ny_taxi_postgres_data
-week1/.ipynb_checkpoints
+week_1_basics_n_setup/**/ny_taxi_postgres_data
+week_1_basics_n_setup/docker_sql/.ipynb_checkpoints
+week_1_basics_n_setup/**/pgadmin_data
+week_1_basics_n_setup/teraform_gcp/*.json
+week_1_basics_n_setup/teraform_gcp/terraform/.terraform
+week_1_basics_n_setup/teraform_gcp/terraform/.terraform.lock.hcl
+**/notepad.txt
